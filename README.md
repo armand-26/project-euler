@@ -5,3 +5,4 @@ for x in num :
  if x % 3 == 0 or x % 5 == 0 :
    somma_multipli = x + somma_multipli
 print somma_multipli
+// prova pull
